@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demotivators</string>
+    <string name="refresh_text">Refresh</string>
+    <string name="OK_text">OK</string>
+    <string name="config_text">Refresh time:</string>
+    <string name="add_widget">Add widget</string>
+</resources>
